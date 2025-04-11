@@ -7,7 +7,7 @@
       "price": 850.00,
       "currency": "LKR",
       "isVegetarian": false,
-      "imageUrl": "https://example.com/images/classic-cheeseburger.jpg",
+      "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_1.png",
       "ingredients": [
         "Beef Patty",
         "Cheddar Cheese",
@@ -26,7 +26,7 @@
       "price": 790.00,
       "currency": "LKR",
       "isVegetarian": true,
-      "imageUrl": "https://example.com/images/veggie-delight.jpg",
+      "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_2.png",
       "ingredients": [
         "Veggie Patty",
         "Lettuce",
@@ -44,7 +44,7 @@
       "price": 890.00,
       "currency": "LKR",
       "isVegetarian": false,
-      "imageUrl": "https://example.com/images/spicy-chicken-burger.jpg",
+      "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_3.png",
       "ingredients": [
         "Chicken Fillet",
         "Spicy Mayo",
