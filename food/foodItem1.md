@@ -7,7 +7,7 @@
       "price": 850.00,
       "currency": "LKR",
       "isVegetarian": false,
-      "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_1.png",
+      "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_1.png"
     },
     {
       "id": 2,
@@ -16,8 +16,8 @@
       "price": 790.00,
       "currency": "LKR",
       "isVegetarian": true,
-      "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_2.png",
-      },
+      "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_2.png"
+    },
     {
       "id": 3,
       "name": "Spicy Chicken Burger",
@@ -25,6 +25,7 @@
       "price": 890.00,
       "currency": "LKR",
       "isVegetarian": false,
-      "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_3.png",
+      "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_3.png"
+    }
+  ]
 }
-
