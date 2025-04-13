@@ -8,7 +8,6 @@
       "currency": "LKR",
       "isVegetarian": false,
       "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_1.png",
-     
     },
     {
       "id": 2,
