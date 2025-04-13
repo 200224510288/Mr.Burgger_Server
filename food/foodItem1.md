@@ -8,16 +8,7 @@
       "currency": "LKR",
       "isVegetarian": false,
       "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_1.png",
-      "ingredients": [
-        "Beef Patty",
-        "Cheddar Cheese",
-        "Lettuce",
-        "Tomato",
-        "Onion",
-        "Special Sauce",
-        "Bun"
-      ],
-      "available": true
+     
     },
     {
       "id": 2,
@@ -27,16 +18,7 @@
       "currency": "LKR",
       "isVegetarian": true,
       "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_2.png",
-      "ingredients": [
-        "Veggie Patty",
-        "Lettuce",
-        "Avocado",
-        "Hummus",
-        "Tomato",
-        "Whole Wheat Bun"
-      ],
-      "available": true
-    },
+      },
     {
       "id": 3,
       "name": "Spicy Chicken Burger",
@@ -45,15 +27,5 @@
       "currency": "LKR",
       "isVegetarian": false,
       "imageUrl": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beef_3.png",
-      "ingredients": [
-        "Chicken Fillet",
-        "Spicy Mayo",
-        "Pickles",
-        "Lettuce",
-        "Sesame Bun"
-      ],
-      "available": false
-    }
-  ]
 }
 
