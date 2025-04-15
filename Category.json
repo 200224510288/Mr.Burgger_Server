@@ -1,1 +1,11 @@
+[
+    {
+        "imageResourceId": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog1.md"
+        "stringResourceId": "Mastering Markdown: A Beginner's Guide to formatting like a Pro!",
 
+    },
+    {
+        "imageResourceId": "Understanding JSON: A Comprehensive Guide",
+        "stringResourceId": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog2.md"
+    },
+]
