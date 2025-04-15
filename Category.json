@@ -1,11 +1,11 @@
 [
     {
         "imageResourceId": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/chicken_burger.png"
-        "stringResourceId": "Mastering Markdown: A Beginner's Guide to formatting like a Pro!",
+        "stringResourceId": "Chicken Burger",
 
     },
     {
-        "imageResourceId": "Understanding JSON: A Comprehensive Guide",
-        "stringResourceId": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beverage.png"
+        "imageResourceId": "https://github.com/200224510288/Mr.Burgger_Server/blob/main/images/beverage.png",
+        "stringResourceId": "Beverages"
     },
 ]
