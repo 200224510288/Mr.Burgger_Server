@@ -3,22 +3,22 @@
     {
       "id": 1,
       "name": "Burgers",
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/images/chicken_burger.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/chicken_burger.png"
     },
     {
       "id": 2,
       "name": "Fast Food",
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/images/bannerpic2.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/bannerpic2.png"
     },
     {
       "id": 3,
       "name": "Juices",
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/images/juices.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/juices.png"
     },
     {
       "id": 4,
       "name": "Beverages",
-      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/images/beverage.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/beverage.png"
     }
   ]
 }
