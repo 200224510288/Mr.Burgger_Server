@@ -5,7 +5,7 @@
       "name": "Zinger Burger",
       "description": "Crispy chicken with spicy sauce and fresh lettuce",
       "price": "850",
-      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/zingerburger.png",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/zingerburger.jpg",
       "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/nonveg.png",
       "category": "nonveg"
     },
@@ -14,7 +14,7 @@
       "name": "Loaded Cheese Burger",
       "description": "Double cheese with juicy beef patty and special sauce",
       "price": "950",
-      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/loadedcheeseburger.png",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/loadedcheeseburger.jpg",
       "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/nonveg.png",
       "category": "nonveg"
     },
@@ -23,7 +23,7 @@
       "name": "Tandoori Burger",
       "description": "Tandoori spiced chicken with mint chutney",
       "price": "800",
-      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/tandooriburger.png",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/tandooriburger.jpg",
       "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/nonveg.png",
       "category": "nonveg"
     },
@@ -32,7 +32,7 @@
       "name": "Nashville Burger",
       "description": "Hot and spicy Nashville style chicken burger",
       "price": "900",
-      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/nashvilleburger.png",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/nashvilleburger.jpg",
       "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/nonveg.png",
       "category": "nonveg"
     },
