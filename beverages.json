@@ -1,0 +1,67 @@
+{
+  "beverages": [
+    {
+      "id": 1,
+      "name": "Pineapple Juice",
+      "description": "Freshly squeezed pineapple juice full of tropical flavor",
+      "price": "350",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/pineapple.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 2,
+      "name": "Watermelon Juice",
+      "description": "Chilled watermelon juice for a refreshing summer day",
+      "price": "300",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/watermelon.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 3,
+      "name": "Grapes Juice",
+      "description": "Sweet grape extract, chilled to perfection",
+      "price": "370",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/grapes.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 4,
+      "name": "Lime Juice",
+      "description": "Zesty lime juice with a dash of mint",
+      "price": "280",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/lime.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 5,
+      "name": "Passion Fruit Juice",
+      "description": "Tangy and aromatic passion fruit nectar",
+      "price": "390",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/passion.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 6,
+      "name": "Orange Juice",
+      "description": "Classic orange juice with pulp and zest",
+      "price": "320",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/orange.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 7,
+      "name": "Apple Juice",
+      "description": "Pure apple juice with no added sugar",
+      "price": "340",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/apple.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    }
+  ]
+}
