@@ -1,0 +1,58 @@
+{
+  "fastfood": [
+    {
+      "id": 1,
+      "name": "Fries",
+      "description": "Crispy golden fries served hot",
+      "price": "250",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/fries.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 2,
+      "name": "Onion Rings",
+      "description": "Crunchy onion rings with spicy dip",
+      "price": "280",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/rings.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 3,
+      "name": "Wegus Bites",
+      "description": "Mini vegetarian nuggets packed with flavor",
+      "price": "300",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/wegus.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 4,
+      "name": "Garlic Breads",
+      "description": "Toasted bread with buttery garlic spread",
+      "price": "200",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/breads.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/veg.png",
+      "category": "veg"
+    },
+    {
+      "id": 5,
+      "name": "Tacos",
+      "description": "Spicy chicken tacos with creamy dressing",
+      "price": "450",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/taccos.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/nonveg.png",
+      "category": "nonveg"
+    },
+    {
+      "id": 6,
+      "name": "Shawarma",
+      "description": "Grilled meat wrapped in soft pita bread",
+      "price": "500",
+      "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/shawarma.png",
+      "categoryImageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/nonveg.png",
+      "category": "nonveg"
+    }
+  ]
+}
