@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "Loaded Cheese Burger",
+      "name": "Cheese Burger",
       "description": "Double cheese with juicy beef patty and special sauce",
       "price": "950",
       "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/loadedcheeseburger.jpg",
@@ -56,7 +56,7 @@
     },
     {
       "id": 7,
-      "name": "Loaded Cheese Beef Burger",
+      "name": "Cheese Beef Burger",
       "description": "Extra cheese with premium beef patty",
       "price": "1200",
       "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/cheesybeefburger.png",
@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "name": "Double Mushroom Swiss Burger",
+      "name": "Mushroom Burger",
       "description": "Double mushroom with Swiss cheese and beef",
       "price": "1150",
       "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/mushrrombeefburger.png",
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "name": "Classic Veggie Burger",
+      "name": "Veggie Burger",
       "description": "Fresh vegetables with special veggie patty",
       "price": "650",
       "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/vegburger1.png",
@@ -101,7 +101,7 @@
     },
     {
       "id": 12,
-      "name": "Cheesy Veg Delight Burger",
+      "name": "Cheesy Veg Burger",
       "description": "Cheesy veggie burger with multiple cheese varieties",
       "price": "800",
       "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/vegbuger4.png",
