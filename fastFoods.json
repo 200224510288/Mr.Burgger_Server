@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "name": "Shawarma",
+      "name": "Shawrma",
       "description": "Grilled meat wrapped in soft pita bread",
       "price": "500",
       "imageUrl": "https://raw.githubusercontent.com/200224510288/Mr.Burgger_Server/main/images/shawarma.png",
